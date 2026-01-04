@@ -11,12 +11,12 @@ Analyze sales data to identify trends and improve business decisions.
 - Charts
 
 ## 📁 Dataset
-Sales data for 12 months.
+call trends data for 12 months.
 
 ## 📈 Key Insights
-- Highest sales in Q4
-- Electronics category performed best
-- Sales increased by 18%
+- Highest call records 
+- which resiportory category performed best
+- calles increased by happy customers
 
 ## 📸 Dashboard Preview
 (Add screenshot here)
